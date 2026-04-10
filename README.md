@@ -1,16 +1,20 @@
-## Hi there 👋
+# Arvinbileg
 
-<!--
-**Ariuk810/Ariuk810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer  
+Ex-Intern at HiPay  
 
-Here are some ideas to get you started:
+## Tech Stack
+React, Next.js, Node.js, Express, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+HiPay — Software Developer Intern  
+- Worked on payment-related features in a production environment  
+- Integrated REST APIs and handled data flow between frontend and backend  
+- Improved user experience by refining UI flows and interactions  
+
+## Projects
+- Full Stack Web Applications (React + Node.js)
+- API-based services and integrations
+
+## Focus
+Building scalable and maintainable web applications
