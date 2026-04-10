@@ -18,3 +18,24 @@ HiPay — Software Developer Intern
 
 ## Focus
 Building scalable and maintainable web applications
+
+
+## 📢 Contact with me 
+
+<p >
+
+
+
+
+   <a href="https://www.instagram.com/kufrayzz/">
+    <img src="icons8-instagram.svg" width="80"/>
+  </a>
+
+  <a href="https://www.facebook.com/Aabii0810/">
+    <img src="icons8-facebook.svg" width="80"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/arvin-bileg-5208603a9/">
+    <img src="icons8-linkedin.svg" width="80"/>
+  </a>
+</p>
