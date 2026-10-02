@@ -9,7 +9,7 @@ React, Next.js, Node.js, Express, JavaScript
 ## Experience
 HiPay — Software Developer Intern  
 - Worked on payment-related features in a production environment  
-- Integrated REST APIs and handled data flow between frontend and backend  
+- Integrated REST APIs and handled data flow between frontend 
 - Improved user experience by refining UI flows and interactions  
 
 ## Projects
